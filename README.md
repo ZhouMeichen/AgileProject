@@ -89,6 +89,7 @@
   - [x] 2)Create "choose background" button
   - [x] 3)Write code to change background after clicking button
     ###### <h6>
+
 ## Attendance of Stand-up meetings
   ![Image of Attendance](https://raw.githubusercontent.com/ZhouMeichen/AgileProject/master/IMG_2452.jpg)
 
@@ -97,3 +98,10 @@
   
 ## Presentation Slides
   [AR ApplicationFinal.pptx](https://github.com/ZhouMeichen/AgileProject/blob/master/AR%20ApplicationFinal.pptx)
+
+## Evidence of Stand-up meetings
+![Image of Attendance](https://github.com/ZhouMeichen/AgileProject/blob/master/IMG_2011.jpg)
+![Image of Attendance](https://github.com/ZhouMeichen/AgileProject/blob/master/IMG_2105.jpg)
+
+## Evidence of Planning Poker
+![Image of Attendance](https://github.com/ZhouMeichen/AgileProject/blob/master/IMG_1717.GIF)
