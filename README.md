@@ -93,7 +93,7 @@
   ![Image of Attendance](https://raw.githubusercontent.com/ZhouMeichen/AgileProject/master/IMG_2452.jpg)
 
 ## Process Evidence
-  [AgileProcessEvidenceTemplate.xlsx](https://github.com/ZhouMeichen/AgileProject/blob/master/AR%20ApplicationFinal.pptx)
+  [AgileProcessEvidenceTemplate.xlsx](https://github.com/ZhouMeichen/AgileProject/blob/master/AgileProcessEvidenceTemplate.xlsx)
   
 ## Presentation Slides
-  [AR ApplicationFinal.pptx](https://github.com/ZhouMeichen/AgileProject/blob/master/AgileProcessEvidenceTemplate.xlsx)
+  [AR ApplicationFinal.pptx](https://github.com/ZhouMeichen/AgileProject/blob/master/AR%20ApplicationFinal.pptx)
