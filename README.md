@@ -1,4 +1,9 @@
-# AgileProject
+# Agile Project - Group Minions
+
+## Agile Team
+Scrum Master: Sahil
+Product owner: Bhuvan
+Team Member: Reena, Resmi, Meichen
 
 ## User Story and Task List
 
